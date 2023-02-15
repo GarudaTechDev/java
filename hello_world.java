@@ -1,5 +1,1 @@
-class hello_world {
-    public static void main(String args[]){
-        System.out.println("Hello World");
-    }
-   }
+Y2xhc3MgaGVsbG9fd29ybGQgewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nIGFyZ3NbXSl7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIZWxsbyBXb3JsZCIpOwogICAgfQogICB9
